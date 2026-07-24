@@ -73,6 +73,14 @@ Used linear regression on LA County public health datasets to quantify the relat
 
 ---
 
+### 💡 Good to Know
+
+- 🎓 Currently completing the Cornell AI Program certificate in machine learning
+- 🔍 Actively seeking research opportunities in data-driven approaches to human development and behavior
+- ⚡ Fun fact: I've competed in traditional Asian folk dance for over 15 years, including performances at Disneyland's Chinese New Year Celebration and on KTLA News
+  
+---
+
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocelyn-lew11)
