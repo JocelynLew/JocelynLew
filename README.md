@@ -1,5 +1,5 @@
 
-<img align="right" width="150" src="YOUR_PHOTO_URL_HERE" />
+<img align="right" width="150"/>
 
 <h1 align="left">Hi, I'm Jocelyn Lew 👋</h1>
 
