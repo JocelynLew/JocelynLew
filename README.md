@@ -62,16 +62,6 @@ Used linear regression on LA County public health datasets to quantify the relat
 
 ---
 
-### 📈 GitHub Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=JocelynLew&show_icons=true&theme=default" width="400"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JocelynLew" width="400"/></td>
-</tr>
-</table>
-
----
 
 ### 💡 Good to Know
 
